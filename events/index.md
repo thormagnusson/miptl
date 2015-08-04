@@ -4,7 +4,7 @@ title: Sample Articles
 excerpt: "An archive of articles sorted by date."
 search_omit: true
 image:
-  feature: so-simple-sample-image-2.jpg
+  feature: blogimg.jpg
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 
