@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: Sonic
+title: MIPTL
 locale: en_US
-description: Flott blogg og heimasida.
+description: Music Informatics and Performance Technologies Lab
 logo: site-logo.png
 search: true
-url: http://thormagnusson.github.io/sonic/
+url: http://thormagnusson.github.io/miptl
 
 # Jekyll configuration
 
