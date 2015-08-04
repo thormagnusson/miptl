@@ -3,11 +3,6 @@ layout: page
 title: Blog
 excerpt: "An archive of blog posts sorted by date."
 search_omit: true
-image:
-  feature: blogimg.jpg
-  credit: Till Boverman
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
-
 ---
 
 <ul class="post-list">
