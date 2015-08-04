@@ -4,8 +4,8 @@ title: About the MIPT Lab
 excerpt: "A research project."
 modified: 
 image:
-  feature: so-simple-sample-image-2.jpg
-  credit: Thor
+  feature: aboutimg.jpg
+  credit: Till Boverman
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
