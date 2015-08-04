@@ -3,14 +3,17 @@
 - title: About
   url: /about/
 
-- title: Articles
-  url: /articles/
+- title: Events
+  url: /events/
 
 - title: Blog
   url: /blog/
 
-- title: Theme Setup
-  url: /theme-setup/
+- title: Research Areas
+  url: /research/
+
+- title: People
+  url: /people/
 
 - title: ixi software
   url: http://ixi-audio.net
