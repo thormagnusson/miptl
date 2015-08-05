@@ -5,14 +5,11 @@ modified:
 categories: blog
 excerpt:
 tags: [NIME]
+author: paul_mcconnell
 image:
   feature: blogimg.jpg
 date: 2014-07-08
 ---
-
-{% highlight yaml %}
-author: paul_mcconnell
-{% endhighlight %}
 
 The fourth coming together of all things modular synth took place in the Creativity Zone at the University of Sussex on Saturday the 28th of June, as the ‘Brighton Modular Meet’. Organised by Andrew Duff in conversation with like-minded synth obsessives on the [Muffwiggler](http://www.muffwiggler.com/forum/) forum, the [Brighton Beep](https://www.facebook.com/brighton.beep) Collective and the Modular Synthesizer Meetup, the Brighton Modular Meet provided a great opportunity for the weaving-together of ideas, know-how and help between, newbies, serious dabblers, artists, boutique synthesizer makers, suppliers and academics, all from a wide variety of fields.
 
@@ -27,3 +24,6 @@ Thank you to all who attended, until the next modular meet.
 ![]( {{site.url}}/images/mod-meet4.png)
 ![]( {{site.url}}/images/mod-meet1.png)
 
+{% highlight yaml %}
+author: paul_mcconnell
+{% endhighlight %}
