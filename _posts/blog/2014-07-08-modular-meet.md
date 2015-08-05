@@ -19,7 +19,7 @@ Feelings of technological bewilderment, mixed with some anxiety may be experienc
 
 Thank you to all who attended, until the next modular meet.
 
-![]( {{site.url}}/images/mod-meet2.png)
-![]( {{site.url}}/images/mod-meet3.png)
-![]( {{site.url}}/images/mod-meet4.png)
-![]( {{site.url}}/images/mod-meet1.png)
+![Brighton Modular]( {{site.url}}/images/mod-meet2.png)
+![Brighton Modular]( {{site.url}}/images/mod-meet3.png)
+![Brighton Modular]( {{site.url}}/images/mod-meet4.png)
+![Brighton Modular]( {{site.url}}/images/mod-meet1.png)
