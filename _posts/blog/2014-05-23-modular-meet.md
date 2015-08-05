@@ -4,9 +4,9 @@ title: "Brighton Modular Meet"
 modified:
 categories: blog
 excerpt:
-tags: []
+tags: [modular synths]
 image:
-  feature:
+  feature: blogimg.jpg
 date: 2014-05-23
 ---
 

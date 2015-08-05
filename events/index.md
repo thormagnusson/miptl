@@ -18,6 +18,8 @@ image:
 **September 5th** – Brighton Mini Maker Fair Workshop
 
 **TEST 5th** – [Brighton Modular Meet](http://thormagnusson.github.io/miptl/blog/modular-meet/)
+**TEST 2 5th** – ![]( {{site.url}}/blog/modular-meet)
+
 
 #Spring 2015 Programme
 
