@@ -17,6 +17,8 @@ image:
 **July 13-15th** – International Conference on Live Coding  
 **September 5th** – Brighton Mini Maker Fair Workshop
 
+**TEST 5th** – [Brighton Modular Meet]({% post_url 2014-05-23-modular-meet %})
+
 #Spring 2015 Programme
 
 **Feb 11th** - Chris Kiefer: Experiments with Mutiparametric Musical Instruments  
