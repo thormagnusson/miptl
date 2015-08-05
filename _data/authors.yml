@@ -1,20 +1,16 @@
 # Authors
 
-billy_rick:
-  name: Billy Rick
-  web: http://thewhip.com
-  email: billy@rick.com
-  bio: "What do you want, jewels? I am a very extravagant man."
-  avatar: bio-photo-2.jpg
-  twitter: extravagantman
-  google:
-    plus: BillyRick
+thor_magnusson:
+  name: Thor Magnusson
+  web: http://thormagnusson.github.io
+  email: t.magnusson@sussex.ac.uk
+  bio: "Lecturer in Music at Sussex"
+  avatar: thor_magnusson.png
+  twitter: thormagnusson
 
-cornelius_fiddlebone:
-  name: Cornelius Fiddlebone
-  email: cornelius@thewhip.com
-  bio: "I ordered what?"
-  avatar: bio-photo.jpg
-  twitter: rhymeswithsackit
-  google:
-    plus: CorneliusFiddlebone
+paul_mcconnell:
+  name: Paul McConnell
+  email: 
+  bio: "Teaching Fellow in Media"
+  avatar: paul_mcconnell.jpeg
+  twitter: pauwly
