@@ -1,48 +1,48 @@
 ---
 layout: page
-title: People
-excerpt: "MIPTL members"
+title: Research Areas
+excerpt: "MIPTL research areas"
 modified: 2014-05-20T20:04:41.231140-04:00
 image:
-  feature: peopleimg.jpg
-  credit: Claire Quigley
+  feature: aboutimg.jpg
+  credit: Till Boverman (TEMP)
   creditlink: http://www.alcluith.co.uk
 ---
 
-The lab is open for participation and membership (which includes being subscribed to the lab’s mailing list), welcoming researchers from across the university.
+###Computational Creativity
 
-Current members (in alphabetical order):
+- Generative Music (for processor-based systems and games)
+- Artificial intelligence and Artificial Life in musical systems
+- Computer-aided composition
+- Creative Coding – audiovisual systems, including robotics, games, and installations
 
-Caroline Bassett (Media and Film)  
-David Berry (Media and Film)  
-Margaret A. Boden (Informatics)  
-Danny Bright (Music)  
-Cecile Chevalier (Media and Film)  
-Ron Chrisley (Informatics)  
-Andrew Duff (Media and Film)  
-Alice Eldridge (Informatics)  
-Richard Elliott (Music)  
-Gemma Farrell (Music)  
-Evelyn Ficarra (Music)  
-Kate Genevieve (Media and Film)  
-David Hendy (Media and Film)  
-Dan Hignell (Music)  
-Ed Hughes (Music)  
-Chris Kiefer (Informatics)  
-Thor Magnusson (Music)  
-Paul McConnell (Media and Film)  
-Chad McKinney (Informatics)  
-Sally Jane Norman (Professor of Performance Technologies)  
-Thanos Polymeneas-Liontiris (Music)  
-Andrew Sleigh (Maker Faire and Lighthouse)  
-Chris Thornton (Informatics)  
-Joe Watson (Music)  
+###HCI in Music Technology
 
-##Honorary members 
+- New Interfaces for Musical Expression (NIME)
+- Embodiment in digital systems (tactile media, spatial audio, installations)
+- Collaboration and networked musical systems
+- Music perception, cognition, affect, and emotions
 
-Tom Betts (Big Robot Games & University of Huddersfield)  
-Nick Collins (Music – Durham University)  
-Enrike Hurtado Mendieta (University of the Basque Country, Bilbao)  
-Anna Jordanous (Digital Humanities – King’s College London)  
-Matthew Yee-King (Music and Informatics – Goldsmiths)  
+###Music Information Retrieval
+
+- Representation of musical signals (as score, spectrographs, other visualisations or modalities)
+- Music classification and modelling through computational methods – musical feature extraction
+- The semantic web, new musical formats (MusicXML, mpeg-7)
+- Automated score generation and score following
+
+###Performance Studies
+
+- Liveness and improvisation with music technologies
+- Live coding and the creation of domain specific programming languages
+- NIME, including psychology, HCI, media anthropology, and ethnography approaches
+- Media archaeology of performance devices
+- Machines, robots, and installations
+
+###Technology Research
+
+- Explore music technology practice within a wider social context
+- Philosophy of technology and music systems
+- Technology and aesthetics
+- Critical code studies, software studies
+ 
 
