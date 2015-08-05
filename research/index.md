@@ -1,15 +1,13 @@
 ---
 layout: page
-title: Theme Setup
-excerpt: "Instructions on how to install and customize the Jekyll theme So Simple."
-modified: 2014-08-08T20:04:41.231140-04:00
+title: People
+excerpt: "MIPTL members"
+modified: 2014-05-20T20:04:41.231140-04:00
 image:
   feature: peopleimg.jpg
   credit: Claire Quigley
   creditlink: http://www.alcluith.co.uk
 ---
-
-#People
 
 The lab is open for participation and membership (which includes being subscribed to the lab’s mailing list), welcoming researchers from across the university.
 
