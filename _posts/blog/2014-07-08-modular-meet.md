@@ -23,7 +23,3 @@ Thank you to all who attended, until the next modular meet.
 ![]( {{site.url}}/images/mod-meet3.png)
 ![]( {{site.url}}/images/mod-meet4.png)
 ![]( {{site.url}}/images/mod-meet1.png)
-
-{% highlight yaml %}
-author: paul_mcconnell
-{% endhighlight %}
