@@ -11,6 +11,7 @@ image:
 date: 2014-07-08
 ---
 
+##Five Things you must know about Musical Materialities:
 In the spirit of all things BuzzFeed I thought I would try to layout the five major things that struck me about the recent [Musical Materialities](http://reframe.sussex.ac.uk/musmat/) conference at the University of Sussex.
 
 **1. Musical Materiality is hard to define:** Many of the contributors to the conference nodded towards the importance of materiality for music but there were some differing conceptions around notions of matter, materiality, materialism and materials (see [Utrecht](http://news.hum.uu.nl/events/the-4m-events-matter-materials-materiality-materialism/) for some great work being done in this area). It is good to see music and sounds studies engaging with the “material turn”, but more explicit theoretical work would have been a good addition to the conference (e.g. not much talk of [medium theory](http://stunlaw.blogspot.co.uk/2012/12/the-author-signal-nietzsches-typewriter.html) or of [media archaeology](http://jussiparikka.net/2012/12/16/what-is-media-archaeology-beta-definition-ver-0-9/)). There was also a great deal of discussion about how materiality might be deployed as a concept in research projects around music and sound studies, most noticeably in the physicality that musical items and instruments possess, for example in the excellent keynote by [Professor Michael Bull](http://www.sussex.ac.uk/profiles/119032) who held up an early version of the Apple iPod to show the clear materiality of digital music.
