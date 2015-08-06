@@ -7,7 +7,7 @@ tags: [dance, performance, instruments, sensors]
 author: thor_magnusson
 image:
   feature: blogimg.jpg
-date: 2015-03-24
+date: 2015-04-05
 ---
 
 **:::: Monday, April 6th, 11am, @ Creativity Zone, Pevensey III ::::**
