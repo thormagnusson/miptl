@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ICLC and Chris Kiefer: Experiments with Mutiparametric Musical Instruments"
+title: "Chris Kiefer: Experiments with Mutiparametric Musical Instruments"
 categories: blog
 excerpt:
 tags: [NIME, live coding]
