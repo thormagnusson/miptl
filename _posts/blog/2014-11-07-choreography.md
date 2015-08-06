@@ -8,7 +8,7 @@ tags: [NIME, live coding]
 author: thor_magnusson
 image:
   feature: blogimg.jpg
-date: 2014-09-18
+date: 2014-11-07
 ---
 
 **Visiting lecture with composer John MacCallum and dancer/choreographer Teoma Naccarato  
@@ -20,7 +20,7 @@ The work explores both the external expression and internal state of each dancer
 
 MacCallum and Naccarato will discuss the challenges of developing a facile choreographic and compositional environment for real-time interaction with biosensors, as well as questions regarding internal-external perception and interaction.
 
-![Live Coding in Birminghamn]( {{site.url}}/images/MIPTLflyer_02.jpg)
+![MIPTL Flyer]( {{site.url}}/images/MIPTLflyer_02.jpg)
 
 ##BIOS
 
