@@ -8,7 +8,7 @@ tags: [NIME, live coding]
 author: thor_magnusson
 image:
   feature: blogimg.jpg
-date: 2014-09-18
+date: 2014-10-10
 ---
 
 The Live Coding and Collaboration symposium we ran in collaboration with the Department of Music in Birmingham went really well. The event started with a doctoral colloquium where researchers presented their work in progress, often challenging and expanding common definitions of live coding. The event involved a planning session for the International Conference for Live Coding which will take place in the University of Leeds in July, 2015. Some great ideas were presented, involving unconventional conference sessions and a good focus on quality food and beer (and let’s not underestimate live coding’s relationship with beer, in particular as we were in [Birmingham](http://www.birmingham.ac.uk/facilities/beast/research/beer.aspx)).

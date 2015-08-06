@@ -8,7 +8,7 @@ tags: [NIME, instruments]
 author: david_berry
 image:
   feature: blogimg.jpg
-date: 2014-07-08
+date: 2014-07-09
 ---
 
 ##Five Things you must know about Musical Materialities:
