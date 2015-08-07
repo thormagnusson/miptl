@@ -17,7 +17,7 @@ The Informatics and Music departments have joined forces to provide two physical
 The [second workshop](https://docs.google.com/forms/d/1SC4OTupU8Yb7iRCiwDYoSQ8sxwVUQBH6gw2XiU1PdGU/viewform) is open for participation, and here we will focus on modular robot-making, where participants build projects using sensors, motors and physical materials. The workshop will take place in the new Digital Humanities Lab (Silverstone Building) which is the physical lab for the [Sussex Humanities Lab](https://humslab.wordpress.com/).
 
 
-![Physical Computing Workshop]( {{site.url}}/images/physical_computing.jpg)
+![Physical Computing Workshop]( {{site.url}}/images/physical_computing.jpeg)
 
 The workshop leaders are:
 
