@@ -14,10 +14,9 @@ We are running a hands-on introduction on live coding music, using open source s
 
 Drop in, write code, and make noise! This is easy! With no prior experience in coding necessary, this workshop will introduce you to live coding and give you the opportunity to experiment and have fun writing programs to make music. With on screen demonstrations and plenty of help provided for you to get stuck in – let the coding and noise commence!
 
-Further information on the live coding systems
+Further information on the live coding systems:
 
-[ixi lang](http://www.ixi-audio.net/ixilang) (example [here](https://www.youtube.com/watch?v=ksCofNmq5pk))
-
+[ixi lang](http://www.ixi-audio.net/ixilang) (example [here](https://www.youtube.com/watch?v=ksCofNmq5pk))  
 [Sonic Pi](http://sonic-pi.net/) (example [here](https://www.youtube.com/watch?v=lW7l4oy3lTg))
 
 Organised by the [Music Informatics and Performance Technologies Lab](http://www.miptl.org/), University of Sussex.
